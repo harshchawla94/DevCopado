@@ -2,20 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Demo__c.Demo_Checkbox__c</members>
-        <members>Demo__c.Name__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Demo__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Demo__c-Demo Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Demo__c</members>
-        <name>SharingRules</name>
     </types>
     <version>62.0</version>
 </Package>
